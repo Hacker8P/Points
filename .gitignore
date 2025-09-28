@@ -1,0 +1,4 @@
+libsodium.a
+libbcrypt.a
+libsodium
+main
