@@ -1,4 +1,4 @@
 libsodium.a
 libbcrypt.a
-libsodium
+libsodium-1.0.20
 main
